@@ -12,7 +12,7 @@ Welcome to my data analytics portfolio! This repository contains exploratory dat
 Explore NBA player and team data to understand characteristics, performance metrics, and international representation.
 
 **Key Features:**
-- Cleaned draft data, physical attributes, and performance stats
+- Cleaned key player data
 - SQL queries to extract top scorers, assists, rebounds, and career lengths
 - Visualizations of player positions, countries, and team contributions
 - Identified trends in average stat profiles
