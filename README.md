@@ -18,7 +18,7 @@ Explore NBA player and team data to understand characteristics, performance metr
 - Identified trends in average stat profiles
 
 **Notebook:**  
-📎 `NBA_Analysis.ipynb`
+[📎 `NBA_Analysis.ipynb`](https://github.com/diegorosasr/personal_projects/blob/699b6c38c1a1b6a3a1509eb7004c11488927e37c/NBA-Data-Analysis/NBA_Data_Analysis.ipynb)
 
 ---
 
