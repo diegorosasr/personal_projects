@@ -34,7 +34,7 @@ Analyze Netflix’s content catalog to identify trends in content types, countri
 - Delivered insights on common content types, durations, and top contributors
 
 **Notebook:**  
-📎 `Netflix_Analysis.ipynb`
+[📎 `Netflix_Analysis.ipynb`](https://github.com/diegorosasr/personal_projects/blob/c4a8480039f7961367e64e42325dbe96315544d6/Netflix_Data_Analysis/Netflix_Data_Analysis.ipynb)
 
 ## ✅ Skills Demonstrated
 - Data Cleaning & Preprocessing (Pandas)
