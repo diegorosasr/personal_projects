@@ -22,6 +22,20 @@ Explore NBA player and team data to understand characteristics, performance metr
 
 ---
 
+### 2️⃣ Netflix Data Analysis
+
+**Objective:**  
+Analyze Netflix’s content catalog to identify trends in content types, countries of production, genres, and viewer ratings.
+
+**Key Features:**
+- Cleaned and processed missing data 
+- SQL queries using DuckDB for interactive exploration
+- Visualizations of genre trends, rating distributions, and release patterns
+- Delivered insights on common content types, durations, and top contributors
+
+**Notebook:**  
+📎 `Netflix_Analysis.ipynb`
+
 ## ✅ Skills Demonstrated
 - Data Cleaning & Preprocessing (Pandas)
 - Exploratory Data Analysis (EDA)
