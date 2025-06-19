@@ -36,6 +36,27 @@ Analyze Netflix’s content catalog to identify trends in content types, countri
 **Notebook:**  
 [📎 `Netflix_Analysis.ipynb`](https://github.com/diegorosasr/personal_projects/blob/c4a8480039f7961367e64e42325dbe96315544d6/Netflix_Data_Analysis/Netflix_Data_Analysis.ipynb)
 
+---
+
+3️⃣ Vehicle Sales Data Analysis
+Objective:
+Investigate trends in vehicle sales over time, analyze performance by brand and model, and understand seasonality and consumer preferences.
+
+Key Features:
+
+Cleaned and structured time-series sales data
+
+Conducted monthly and yearly trend analysis
+
+Compared performance by car brands, types, and models
+
+Created visualizations for sales spikes, drops, and seasonality insights
+
+Identified top-performing vehicles and underperforming segments
+
+Notebook:
+📎 Vehicle_Sales_Data_Analysis.ipynb 
+
 ## ✅ Skills Demonstrated
 - Data Cleaning & Preprocessing (Pandas)
 - Exploratory Data Analysis (EDA)
