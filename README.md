@@ -38,20 +38,16 @@ Analyze Netflix’s content catalog to identify trends in content types, countri
 
 ---
 
-3️⃣ Vehicle Sales Data Analysis
-Objective:
+### 3️⃣ Vehicle Sales Data Analysis
+
+**Objective:**
 Investigate trends in vehicle sales over time, analyze performance by brand and model, and understand seasonality and consumer preferences.
 
-Key Features:
-
+**Key Features:**
 - Cleaned and structured time-series sales data
-
 - Conducted monthly and yearly trend analysis
-
 - Compared performance by car brands, types, and models
-
 - Created visualizations for sales spikes, drops, and seasonality insights
-
 - Identified top-performing vehicles and underperforming segments
 
 **Notebook:**
