@@ -44,18 +44,18 @@ Investigate trends in vehicle sales over time, analyze performance by brand and 
 
 Key Features:
 
-Cleaned and structured time-series sales data
+- Cleaned and structured time-series sales data
 
-Conducted monthly and yearly trend analysis
+- Conducted monthly and yearly trend analysis
 
-Compared performance by car brands, types, and models
+- Compared performance by car brands, types, and models
 
-Created visualizations for sales spikes, drops, and seasonality insights
+- Created visualizations for sales spikes, drops, and seasonality insights
 
-Identified top-performing vehicles and underperforming segments
+- Identified top-performing vehicles and underperforming segments
 
-Notebook:
-📎 Vehicle_Sales_Data_Analysis.ipynb 
+**Notebook:**
+[📎 `Vehicle Sales Data_Analysis.ipynb`](https://github.com/diegorosasr/personal_projects/blob/c8c97a40c8e4c38fc2bfd22e9720a56c7506e3e1/Vehicle_Sales_Analysis/Vehicle_Sales_Data_Analysis.ipynb)
 
 ## ✅ Skills Demonstrated
 - Data Cleaning & Preprocessing (Pandas)
